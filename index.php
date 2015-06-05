@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Satellite Image View Map</title>
@@ -12,7 +11,7 @@
 	<script src="lib/jquery.js"></script>
     <script src="lib/leaflet.js"></script>
 
-	<!--<script src="lib/leaflet.draw.js"></script>-->
+	<script src="lib/leaflet.draw.js"></script>
 	
     <script src="lib/L.ImageTransform.js"></script>
 	<script src="js/satellite.js"></script>
